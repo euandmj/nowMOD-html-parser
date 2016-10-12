@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\htmlParser\htmlParser\bin\Debug\htmlParser.exe.config
+d:\documents\visual studio 2015\Projects\htmlParser\htmlParser\bin\Debug\htmlParser.exe
+d:\documents\visual studio 2015\Projects\htmlParser\htmlParser\bin\Debug\htmlParser.pdb
+d:\documents\visual studio 2015\Projects\htmlParser\htmlParser\obj\Debug\htmlParser.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\htmlParser\htmlParser\obj\Debug\htmlParser.exe
+d:\documents\visual studio 2015\Projects\htmlParser\htmlParser\obj\Debug\htmlParser.pdb
